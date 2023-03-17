@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Md Nabiul Bashar
 #### Junior Web-Developer
 ![Junior Web-Developer](https://nabiul.netlify.app/)
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ09tko5P0cyI1eFUH1b7-ABcAe3sPNsWwS9g&usqp=CAU">
+<img align="right" alt="coding" width="100%" src="https://media.istockphoto.com/id/1366475343/photo/abstract-program-code-on-the-digital-display.jpg?b=1&s=170667a&w=0&k=20&c=D616cG9GiUkuJxaxsEH3fFfBNF2Wz3CBYO0PkvJkgvE=">
 hey honurable,i am junior web developer.I think web development is fun,when i make coding ,i try explore new things.You can't say me i am expert at Html/css/javascript/Bootstrap/tailwind/react/react authentication/firebase/express js/MongoDB but i play with this,because coding is fun.I am continously learning day by day.Insallah this journey will end in alhamdullilah.
 
 Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/daisiui/express js/MongoDB
