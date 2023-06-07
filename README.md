@@ -10,7 +10,7 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 - 🔭 I’m currently working on explore the new projects 
 - 🌱 I’m currently learning MongoDB 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development 
+- 💬 Ask me about Web Development and Mern Stack
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,typescript,html,css,mongodb,nodejs,react,tailwind,vscode,redux,bootstrap,figma,nodejs,heroku,netlify,illustrator,tensorflow,photoshop,git,firebase,husky,postman,expressjs)](https://skills.thijs.gg)
 
