@@ -7,10 +7,10 @@ hey honurable,i am junior web developer.I think web development is fun,when i ma
 
 Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/daisiui/express js/MongoDB
 
-- 🔭 I’m currently working on explore the new project
+- 🔭 I’m currently working on explore the new projects
 - 🌱 I’m currently learning Next js
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web Development and mern stack
+- 💬 Ask me about Web Development , mern stack and database
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,typescript,html,css,mongodb,nodejs,react,tailwind,vscode,redux,bootstrap,figma,nodejs,heroku,netlify,illustrator,tensorflow,photoshop,git,firebase,postman,expressjs)](https://skills.thijs.gg)
 
