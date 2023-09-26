@@ -1,4 +1,4 @@
-### Hi there👋, my name is Md Nabiul Bashar 
+### Hi 👋, my name is Md Nabiul Bashar 
 #### Junior Web-Developer
 <img align="right" alt="coding" height="40%" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGQC8NuNyj8_JS4Ts6ve111wtzZFGS_R9wA&usqp=CAU">
 ![Junior Web-Developer](https://nabiul.netlify.app/)
