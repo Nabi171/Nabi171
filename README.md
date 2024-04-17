@@ -12,7 +12,7 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development , mern stack
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,typescript,html,css,mongodb,nodejs,react,tailwind,vscode,redux,aws,gql.postgresql,bootstrap,figma,nodejs,heroku,vue,netlify,illustrator,tensorflow,photoshop,git,firebase,postman,expressjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,typescript,html,css,mongodb,nodejs,react,tailwind,vscode,redux,aws,mui.postgresql,bootstrap,figma,nodejs,heroku,vue,netlify,illustrator,tensorflow,photoshop,git,firebase,postman,expressjs)](https://skills.thijs.gg)
 
 
 
