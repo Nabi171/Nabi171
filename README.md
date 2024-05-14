@@ -22,8 +22,5 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabi171)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nabi171&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Nabi171)  
 
-![Profile views](https://gpvc.arturio.dev/Nabi171)  
