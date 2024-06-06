@@ -42,6 +42,31 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+{
+  "name": "Md Nabiul Bashar",
+  "title": "Junior Web Developer",
+  "introduction": "Hey honorable, I am a junior web developer. I think web development is fun. When I code, I try to explore new things. You can't say I'm an expert at HTML, CSS, JavaScript, Bootstrap, Tailwind, React, React Authentication, Firebase, Express.js, MongoDB, but I play with these technologies because coding is fun. I am continuously learning day by day. Inshallah, this journey will end in Alhamdulillah.",
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Bootstrap",
+    "Tailwind CSS",
+    "React",
+    "React Authentication",
+    "Firebase",
+    "DaisyUI",
+    "Express.js",
+    "MongoDB"
+  ],
+  "currently_working_on": "Exploring new projects",
+  "currently_learning": "Next.js",
+  "looking_to_collaborate_on": "GitHub",
+  "ask_me_about": [
+    "Web Development",
+    "MERN Stack"
+  ]
+}
 
 
 
