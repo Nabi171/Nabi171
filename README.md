@@ -49,7 +49,5 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nabi171)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabi171)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
