@@ -41,6 +41,9 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+
 
 ```json
 {
@@ -58,19 +61,20 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
     "Firebase",
     "DaisyUI",
     "Express.js",
-    "MongoDB"
+    "MongoDB",
+    "PostGreSQL",
+    "Next.js",
+    "Redux & Redux toolkit"
   ],
   "currently_working_on": "Exploring new projects",
-  "currently_learning": "Next.js",
+  "currently_learning": "GraphQL",
   "looking_to_collaborate_on": "GitHub",
   "ask_me_about": [
     "Web Development",
     "MERN Stack"
   ]
 }
-
-
-
+```
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
