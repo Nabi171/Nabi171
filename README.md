@@ -42,6 +42,7 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+```json
 {
   "name": "Md Nabiul Bashar",
   "title": "Junior Web Developer",
@@ -67,6 +68,7 @@ Skills: Html/css/Js/Bootstrap/tailwind css/react/react authentication/firebase/d
     "MERN Stack"
   ]
 }
+
 
 
 
